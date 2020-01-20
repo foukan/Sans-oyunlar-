@@ -1,7 +1,8 @@
-# loto da fikir gerekiyor
+# loto 
 
-random randint ile 6 rastgele sayı basmanın birçok yöntemi var.
+6 rastgele sayı basmanın birçok yöntemi var.
 Amaç 1, ile 49 arasında çektiğimiz 6 sayının birbiri ile aynı olmamasını kontrol etmek.
+Veya ayni olmayan sayilari çektirebilmek.
 
 # 101  bulmaca 
-iki farklı yazım yöntemi birisi while ile diğeri ise uzun yöntem if elif ile
+iki farklı yazım yöntemi 
